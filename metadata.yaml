@@ -1,0 +1,29 @@
+_repo: Disease-in-Plants_39011
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, H. Marshall (Harry Marshall)
+    alias: Ward, Harry Marshall
+    birthdate: 1854
+    deathdate: 1906
+    gutenberg_agent_id: '39791'
+    url: http://www.gutenberg.org/2009/agents/39791
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Marshall_Ward
+description: ''
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39011'
+  lccn: '02017446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Plant diseases'
+title: Disease in Plants
+url: http://www.gutenberg.org/ebooks/39011
